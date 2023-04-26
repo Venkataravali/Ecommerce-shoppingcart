@@ -1,0 +1,29 @@
+newsletter =>
+title ,description ,inputcontainer 
+input and button here we give placeholder and button send 
+
+
+footer created and productlist
+product list imported to app js removed home.js 
+we would get empty page 
+
+in that need to create navbar,announcement and profile list page 
+sorting filter and product list(in product filter)
+title and filter conteiner(each filter ) we can arrange them by giving df,space between and margin 
+
+it's really easy to use again again when you seperate components 
+created filters like filter products and sort products 
+
+in filters we can choose select colors and sizes 
+in sort filter we use sorting method 
+finished list page 
+
+create single product page 
+
+between announcement and newsletter 
+creating single product
+there is navbar ,announcement 
+
+wrapper 
+imagecontainer (img)
+infocontainer (title,desc)

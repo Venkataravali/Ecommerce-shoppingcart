@@ -1,0 +1,2 @@
+that above is ur secret key if you post this in any github or social media if anybody access this they can create collections and all
+so hide in .env file (mongoose connection link)
